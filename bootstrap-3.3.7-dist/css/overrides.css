@@ -1,0 +1,13 @@
+#row1 {
+	background-color: red;
+}
+
+#row2 {
+	background-color: blue;
+}
+.graphTitle {
+	color: green;
+	font-size: 24px;
+	font-family: 'Gill Sans';
+	text-align: center;
+}
